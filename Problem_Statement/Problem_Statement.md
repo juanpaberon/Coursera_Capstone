@@ -1,3 +1,5 @@
 # Problem Statement
 
-Here I will present the problem that I will try to solve with the power of data science
+It is well documented that certain stores rather be located at places with low density or non-urban. However, the location of a new store, for example, a new WalMart super center dependends on many different factors besides the population density. Factors such as the presence of competitors, the closeness to another store of the same brand and the population density are interesting variables that could determine if a retail store should open or not a new location. 
+
+Besides the well known examples such as WalMart and Target, it is interesting to explore the location of other competitors such as Dollar General which has been gaining strength in the last years. Therefore, the aim of this project is to explore the current location of stores which take over rural america. Particularly, to narrow the scope of the project, it will be focus on grocery stores or stores that sell groceries. I will study variables such as population, distance to competitors, and distance to other stores of the same brand that could have an influence on determining if a town should or should not have a big retail store such a WalMart or Target.
